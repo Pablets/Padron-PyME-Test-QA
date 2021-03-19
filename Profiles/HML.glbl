@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>HML</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://padronpymes.hml.produccion'</initValue>
+      <name>PATH</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjU2NWE2ZTdjNmQ4YzNkZTQwYmQ1NjIzZjAxODAwNzAzYWVhZWY2NmYwODU3ZDViZjQ4ODFmNmZkOTUzYWJmNDY3MzNhNjc0NDAyZjVmYTM5In0.eyJhdWQiOiI1ZTBhNGQxOGFmY2I5OTAxNjU3N2EyYTQiLCJqdGkiOiI1NjVhNmU3YzZkOGMzZGU0MGJkNTYyM2YwMTgwMDcwM2FlYWVmNjZmMDg1N2Q1YmY0ODgxZjZmZDk1M2FiZjQ2NzMzYTY3NDQwMmY1ZmEzOSIsImlhdCI6MTYxNjA5MjM4MywibmJmIjoxNjE2MDkyMzgzLCJleHAiOjE2NDc2MjgzODMsInN1YiI6IjYwMDVlZGNhMTJjOTJiZWU1ODZmMTBhZSIsInNjb3BlcyI6W119.2Dq-qzZ4rDI4iIhlvX-eaQePjVBaN5e8F1MelDvLYQtisk7zUe2eTC54dx8-9mvlMa5R-3fLUR9nIHcpOF1kXoggB-XaA1DVa0jE0zywSPZNW-D0c-aZGPpJySudgOHs3KcBZYkYpgAEHsKxhDbs3bau1yta833zV--RuZOY5Sg26bawh5nSIunT_EOv8-B57h0W1Xp-apubL2ETOMtO9dup_4TsZu2eH5yde5Ee2Txjf63YS7hy7tZKI5xB4zRTHcd1sLwXn9g_hdYblnDrHNcNshRF8l_IMxPL6-57BoNtEzq-ElXh6f4AhayeHDxkmOnajCSOZx2NSYgQxhjaXap4l8xXR5_-8Yp_mPP1uH1l6_cfG2Dx-1BXXmeXGA6y-nFZuv9muDfOLJTAFR-7AczToLljmTflL3QXr4f3_xaTjRbUlHZSqPIfTifRraD9Y0O7TrGro79b1XyFVo4J6tg92pZA8HSXduuzzFr2hRG5cOk_VbiH6vJhvkhNypKct3diHER_TwRuraAWYSU05ZKUAgLFBBfd-CR-T0qGH1FFQM-Hlce5XkMmYh-BYihE2bumLjik1guSR_hl-rf7vrGHF9O_Y0Yq4Jb1rvkKu_zbpy9oK1nBCUazxo6yZdtQWlavS5-Gq7b68EteDqKBWee36XEcqzV8VTqQtdGEF_Y'</initValue>
+      <name>TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>RESPONSE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

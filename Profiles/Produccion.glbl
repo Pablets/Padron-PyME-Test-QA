@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Produccion</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://padronpymes.produccion'</initValue>
+      <name>PATH</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImp0aSI6IjI3NzNmM2E1YTE3MTJiNmExODNlNTQ5NTM0MDRlOGE4N2YzZjhmOGY0MGM1MzQ3NTkzNDUyMDEzMTFiZWU5ZmFiMTZiMDMyOWYzNzlkMDU4In0.eyJhdWQiOiI1ZTBhNGQxOGFmY2I5OTAxNjU3N2EyYTQiLCJqdGkiOiIyNzczZjNhNWExNzEyYjZhMTgzZTU0OTUzNDA0ZThhODdmM2Y4ZjhmNDBjNTM0NzU5MzQ1MjAxMzExYmVlOWZhYjE2YjAzMjlmMzc5ZDA1OCIsImlhdCI6MTYxNTg0MDQyNiwibmJmIjoxNjE1ODQwNDI2LCJleHAiOjE2NDczNzY0MjYsInN1YiI6IjYwMDVlZGNhMTJjOTJiZWU1ODZmMTBhZSIsInNjb3BlcyI6W119.Vp93b6nxX7muXjvYUSsl_dMuUd3t7VfTmaNEqO41WSomIWb_qUw37QzQikHSQFaxMZ0pKR5GUNZ3HW4CvaAzqTPIzrnYs14gJNkfsxY3lBhcdlhtXp8HHGp9XzTYunSE3Ban3dzZZ080uSC0EUDLmp7q-cdl376JxSqYDz7qTXu_BcbcjMeSmy2D71wS7zWipCrEFbjAsNAQvtLdH1BYK9_X1sD8DuEa0LUIUU2QtLTimM5PeJqmyBIbiLVCFcD-8BqfBRLRMCp96qSxuq60EDew-i_2V1XlMLH5UA3ps_C3ZT4aDmPdleYGJRh_042yx37dcd-fkAuhqMJeXAw6fr7zHh170gL0tDxveB2YxvKxnRjPrw1aE-YKNiYdep9RAhvZ7jgr8WyIGDestCLGywlb67TwmWCiSnnoeERPEOm8Gix0H_asqRYd8Cgg8sleawG-AJNAqkDByiSN6gXZv5MEv1ciIgIv24sdXix4yU9BshSAVrn3-fvoYzS1OfpmhY5L3jB_QufIni1UA1Vi3ps_hvNUuDb8_VJbUAS7_nYv_sPiLclah9b0VyZcv3wELyGHq-xRJQEC0C8s7NJmg8kdt4JU-zlSnuOu27DsGad2j7WrHW8U97BGg8U9V5N9ZHN5uk1aC-LE0x0KnkRqLHrrpcCnFgCkl1bsW6puK1c'</initValue>
+      <name>TOKEN</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>RESPONSE</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

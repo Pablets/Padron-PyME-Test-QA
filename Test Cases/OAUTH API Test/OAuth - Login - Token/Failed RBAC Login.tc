@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Failed RBAC Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b85295d3-dc82-4cdf-82a5-982ae25785b8</testCaseGuid>
+   <variable>
+      <defaultValue>null</defaultValue>
+      <description></description>
+      <id>c4ee3b36-e736-4a3e-bad6-822c6851ff89</id>
+      <masked>false</masked>
+      <name>API</name>
+   </variable>
+</TestCaseEntity>

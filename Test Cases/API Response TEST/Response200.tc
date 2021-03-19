@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Response200</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>321e31b0-4d8b-48e6-8525-07fa78512702</testCaseGuid>
+   <variable>
+      <defaultValue>null</defaultValue>
+      <description></description>
+      <id>5c053db0-49d1-4833-a358-b904d8263c65</id>
+      <masked>false</masked>
+      <name>API</name>
+   </variable>
+</TestCaseEntity>
